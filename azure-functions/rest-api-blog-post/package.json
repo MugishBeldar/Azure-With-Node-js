@@ -1,0 +1,20 @@
+{
+  "name": "rest-api-blog-post",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/data-tables": "^13.2.2",
+    "azure-middleware": "^1.0.1",
+    "azure-storage": "^2.10.7",
+    "joi": "^17.9.2"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
